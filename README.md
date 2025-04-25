@@ -1,4 +1,4 @@
-# Sudoku Game 🧩
+# Sudoku Game 
 
 A fully-featured Sudoku game built using Python and Tkinter.
 
